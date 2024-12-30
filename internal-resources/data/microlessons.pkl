@@ -2,24 +2,17 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+setupYourOwnVmUbuntu = new Template.Microlesson {
+  friendlyName = "Setup Your Own VM - Ubuntu"
+  dirName = "setup-your-own-vm-ubuntu"
   type = "Content"
   videoUrl = ""
 }
 
-exercise = new Template.Microlesson {
-  friendlyName = "Exercise"
-  dirName = "exercise"
+setupYourOwnVmWindows = new Template.Microlesson {
+  friendlyName = "Setup Your Own VM - Windows"
+  dirName = "setup-your-own-vm-windows"
   type = "Content"
-  videoUrl = ""
-}
-
-levelUp = new Template.Microlesson {
-  friendlyName = "Level Up"
-  dirName = "level-up"
-  type = "Level Up Content"
   videoUrl = ""
 }
 
