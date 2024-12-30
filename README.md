@@ -1,47 +1,31 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Setup Your Own VM</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, students will learn how to set up and configure their very own virtual machine using VirtualBox.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Setup Your Own VM - Ubuntu](./setup-your-own-vm-ubuntu/README.md)
+- [Setup Your Own VM - Windows](./setup-your-own-vm-windows/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- None
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+Estimated time to complete core lab exercise: **90 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/setup-your-own-vm/canvas-landing-pages/ITB.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/setup-your-own-vm/canvas-landing-pages/fallback.html)
 
 ### Resources
 

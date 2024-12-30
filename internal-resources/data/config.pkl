@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "Setup Your Own VM"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "setup-your-own-vm"
   type = "Lab"
 }
 
@@ -24,12 +24,16 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.exercise
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.levelUp) {
-        type = "Level Up content"
-      }
+      mls.setupYourOwnVmUbuntu
+      mls.setupYourOwnVmWindows
+    }
+  }
+    new {
+    name = "ITB"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.setupYourOwnVmUbuntu
+      mls.setupYourOwnVmWindows
     }
   }
 }
