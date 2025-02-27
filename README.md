@@ -28,6 +28,11 @@ If you have already set up a virtual machine once in the course, create a Window
 - [Create a Windows VM](./create-a-windows-vm/README.md)
 - [Create a CentOS VM](./create-a-centos-vm/README.md)
 
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
+
 ## Internal
 
 ### Prerequisites

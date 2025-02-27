@@ -5,7 +5,7 @@
   },
   "repo": {
     "friendlyName": "Setup Your Own VM Lab",
-    "name": "setup-your-own-vm",
+    "name": "setup-your-own-vm-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup Your Own VM Lab - Ubuntu",
-          "dirName": "setup-your-own-vm-ubuntu",
+          "friendlyName": "Install VirtualBox on macOS",
+          "dirName": "install-virtualbox-on-macos",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,58 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Setup Your Own VM Lab - Windows",
-          "dirName": "setup-your-own-vm-windows",
+          "friendlyName": "Install VirtualBox on Windows",
+          "dirName": "install-virtualbox-on-windows",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Install VirtualBox on Ubuntu",
+          "dirName": "install-virtualbox-on-ubuntu",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Create an Ubuntu VM",
+          "dirName": "create-an-ubuntu-vm",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Create a Windows VM",
+          "dirName": "create-a-windows-vm",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Create a CentOS VM",
+          "dirName": "create-a-centos-vm",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -69,8 +119,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup Your Own VM Lab - Ubuntu",
-          "dirName": "setup-your-own-vm-ubuntu",
+          "friendlyName": "Install VirtualBox on macOS",
+          "dirName": "install-virtualbox-on-macos",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +129,58 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Setup Your Own VM Lab - Windows",
-          "dirName": "setup-your-own-vm-windows",
+          "friendlyName": "Install VirtualBox on Windows",
+          "dirName": "install-virtualbox-on-windows",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Install VirtualBox on Ubuntu",
+          "dirName": "install-virtualbox-on-ubuntu",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Create an Ubuntu VM",
+          "dirName": "create-an-ubuntu-vm",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Create a Windows VM",
+          "dirName": "create-a-windows-vm",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Create a CentOS VM",
+          "dirName": "create-a-centos-vm",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

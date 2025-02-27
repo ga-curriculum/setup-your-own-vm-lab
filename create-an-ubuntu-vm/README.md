@@ -84,7 +84,7 @@ Use [this link](https://cdimage.ubuntu.com/noble/daily-live/current/noble-deskto
 **Answer these questions in your <code class="filepath">create-a-vm.md</code> file in VS Code:**
 
 - What OS is your VM running?
-- What challenges did you face while creating your VM? How did you overcome them?
+- What challenges did you face while creating your VM? What troubleshooting steps did you take to resolve those challenges and what did you research?
 - How much RAM and hard disk space did you allocate to your VM? Why did you choose these amounts?
 - What do you think would happen if you allocated too much RAM to your VM?
 
