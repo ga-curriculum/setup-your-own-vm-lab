@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Setup Your Own VM</span>
+  <span class="headline">Setup Your Own VM Lab</span>
 </h1>
 
 ## About
@@ -9,8 +9,24 @@ In this lab, students will learn how to set up and configure their very own virt
 
 ## Content
 
-- [Setup Your Own VM - Ubuntu](./setup-your-own-vm-ubuntu/README.md)
-- [Setup Your Own VM - Windows](./setup-your-own-vm-windows/README.md)
+Start by ensuring VirtualBox is installed on your machine by following the instructions that correspond to your operating system:
+
+- [Install VirtualBox on macOS](./install-virtualbox-on-macos/README.md)
+- [Install VirtualBox on Windows](./install-virtualbox-on-windows/README.md)
+- [Install VirtualBox on Ubuntu](./install-virtualbox-on-ubuntu/README.md)
+
+Next, complete the setup exercise:
+
+- [Setup](./setup/README.md)
+
+Finally, set up your own virtual machine in VirtualBox. If this is the first time you are setting up a virtual machine in the course, complete the exercise to create an Ubuntu virtual machine.
+
+- [Create an Ubuntu VM](./create-an-ubuntu-vm/README.md)
+
+If you have already set up a virtual machine once in the course, create a Windows or CentOS virtual machine instead. Note that Macs with Apple Silicon chips cannot create VirtualBox VMs running Windows.
+
+- [Create a Windows VM](./create-a-windows-vm/README.md)
+- [Create a CentOS VM](./create-a-centos-vm/README.md)
 
 ## Internal
 
@@ -20,12 +36,12 @@ In this lab, students will learn how to set up and configure their very own virt
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **90 min**
+Estimated time to complete core lab exercise: **90 min** (part 1) **60 min** (part 2)
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/setup-your-own-vm/canvas-landing-pages/ITB.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/setup-your-own-vm/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/setup-your-own-vm-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/setup-your-own-vm-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 

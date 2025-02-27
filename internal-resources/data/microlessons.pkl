@@ -2,17 +2,51 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setupYourOwnVmUbuntu = new Template.Microlesson {
-  friendlyName = "Setup Your Own VM - Ubuntu"
-  dirName = "setup-your-own-vm-ubuntu"
+installVirtualBoxOnMacOs = new Template.Microlesson {
+  friendlyName = "Install VirtualBox on macOS"
+  dirName = "install-virtualbox-on-macos"
   type = "Content"
   videoUrl = ""
 }
 
-setupYourOwnVmWindows = new Template.Microlesson {
-  friendlyName = "Setup Your Own VM - Windows"
-  dirName = "setup-your-own-vm-windows"
+installVirtualBoxOnWindows = new Template.Microlesson {
+  friendlyName = "Install VirtualBox on Windows"
+  dirName = "install-virtualbox-on-windows"
   type = "Content"
   videoUrl = ""
 }
 
+installVirtualBoxOnUbuntu = new Template.Microlesson {
+  friendlyName = "Install VirtualBox on Ubuntu"
+  dirName = "install-virtualbox-on-ubuntu"
+  type = "Content"
+  videoUrl = ""
+}
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+createAnUbuntuVm = new Template.Microlesson {
+  friendlyName = "Create an Ubuntu VM"
+  dirName = "create-an-ubuntu-vm"
+  type = "Content"
+  videoUrl = ""
+}
+
+createAWindowsVm = new Template.Microlesson {
+  friendlyName = "Create a Windows VM"
+  dirName = "create-a-windows-vm"
+  type = "Content"
+  videoUrl = ""
+}
+
+createACentOsVm = new Template.Microlesson {
+  friendlyName = "Create a CentOS VM"
+  dirName = "create-a-centos-vm"
+  type = "Content"
+  videoUrl = ""
+}

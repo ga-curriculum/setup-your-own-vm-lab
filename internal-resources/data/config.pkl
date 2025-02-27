@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Setup Your Own VM"
+  friendlyName = "Setup Your Own VM Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "setup-your-own-vm"
+  name = "setup-your-own-vm-lab"
   type = "Lab"
 }
 
@@ -23,17 +23,26 @@ courses {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.setupYourOwnVmUbuntu
-      mls.setupYourOwnVmWindows
+      mls.installVirtualBoxOnMacOs
+      mls.installVirtualBoxOnWindows
+      mls.installVirtualBoxOnUbuntu
+      mls.setup
+      mls.createAnUbuntuVm
+      mls.createAWindowsVm
+      mls.createACentOsVm
     }
   }
     new {
     name = "ITB"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setupYourOwnVmUbuntu
-      mls.setupYourOwnVmWindows
+      mls.installVirtualBoxOnMacOs
+      mls.installVirtualBoxOnWindows
+      mls.installVirtualBoxOnUbuntu
+      mls.setup
+      mls.createAnUbuntuVm
+      mls.createAWindowsVm
+      mls.createACentOsVm
     }
   }
 }

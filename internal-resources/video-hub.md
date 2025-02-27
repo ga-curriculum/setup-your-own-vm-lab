@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Setup Your Own VM</span>
+  <span class="headline">Setup Your Own VM Lab</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

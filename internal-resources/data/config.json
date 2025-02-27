@@ -4,7 +4,7 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Setup Your Own VM",
+    "friendlyName": "Setup Your Own VM Lab",
     "name": "setup-your-own-vm",
     "type": "Lab",
     "about": "",
@@ -20,7 +20,7 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup Your Own VM - Ubuntu",
+          "friendlyName": "Setup Your Own VM Lab - Ubuntu",
           "dirName": "setup-your-own-vm-ubuntu",
           "type": "Content",
           "skill": "",
@@ -30,7 +30,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Setup Your Own VM - Windows",
+          "friendlyName": "Setup Your Own VM Lab - Windows",
           "dirName": "setup-your-own-vm-windows",
           "type": "Content",
           "skill": "",
@@ -69,7 +69,7 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Setup Your Own VM - Ubuntu",
+          "friendlyName": "Setup Your Own VM Lab - Ubuntu",
           "dirName": "setup-your-own-vm-ubuntu",
           "type": "Content",
           "skill": "",
@@ -79,7 +79,7 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Setup Your Own VM - Windows",
+          "friendlyName": "Setup Your Own VM Lab - Windows",
           "dirName": "setup-your-own-vm-windows",
           "type": "Content",
           "skill": "",
