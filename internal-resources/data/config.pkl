@@ -33,7 +33,7 @@ courses {
     }
   }
     new {
-    name = "ITB"
+    name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
       mls.installVirtualBoxOnMacOs
