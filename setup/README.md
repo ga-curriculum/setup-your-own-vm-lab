@@ -3,7 +3,7 @@
   <span class="subhead">Setup</span>
 </h1>
 
-Make a new repository on [GitHub](https://github.com/) named `setup-your-own-vm`.
+Make a new repository on [GitHub](https://github.com/) named `setup-your-own-vm-lab`.
 
 Open your Terminal application and navigate to your <code class="filepath">~/code/ga/labs</code> directory:
 
