@@ -45,8 +45,8 @@ Estimated time to complete core lab exercise: **90 min** (part 1) **60 min** (pa
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/setup-your-own-vm-lab/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/setup-your-own-vm-lab/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://ga-curriculum.github.io/setup-your-own-vm-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://ga-curriculum.github.io/setup-your-own-vm-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -58,4 +58,4 @@ Estimated time to complete core lab exercise: **90 min** (part 1) **60 min** (pa
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
