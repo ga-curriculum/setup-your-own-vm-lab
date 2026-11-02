@@ -14,7 +14,7 @@ cd ~/code/ga/labs
 Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-git clone https://git.generalassemb.ly/<your-username>/setup-your-own-vm-lab.git
+git clone https://github.com/<your-username>/setup-your-own-vm-lab.git
 ```
 
 > 🚨 Do not copy the above command. It will not work. Your GitHub username will replace `<github-username>` (including the < and >) in the URL above.
